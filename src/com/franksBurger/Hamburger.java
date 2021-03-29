@@ -111,57 +111,5 @@ package com.franksBurger;
             return totalPrice;
         }
 
-//    Customer details for branch Adelaide
-//    Customer: Tim[1]
-//    Transactions
-//[1]  Amount 50.05
-//            [2]  Amount 44.22
-//            [3]  Amount 12.44
-//    Customer: Mike[2]
-//    Transactions
-//[1]  Amount 175.34
-//            [2]  Amount 1.65
-//    Customer: Percy[3]
-//    Transactions
-//[1]  Amount 220.12
 
-
-//        int number = 0;
-//        int count = 0;
-//        int sum = 0;
-////        boolean leap = Exercices.isLeapYear(1924);
-////        System.out.println(leap);
-//        for (int i = 1; i <= 1000; i++) {
-//            if (i % 3 == 0 && i % 5 == 0) {
-//                sum = number + i;
-//                count++;
-//                System.out.println(i);
-//                if (count == 5)
-//                    break;
-//            }
-//        }
-//        System.out.println(sum);
-//        DiagonalStar.printSquareStar(16);
-//InputCalculator.inputThenPrintSumAndAverage();
-
-//        Car car = new Car(5,"porche");
-//        Mitsubishi mitsubishi = new Mitsubishi(5,"alfa");
-//        System.out.println(mitsubishi.accelerate());
-//
-//        Hamburger hamburger = new Hamburger("cheese","fowl",22,"bread");
-//        hamburger.addHamburgerAddition1("sauce",21);
-//        System.out.println(hamburger.itemizehamburger());
-//        System.out.println("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$");
-//        System.out.println();
-//
-//        DeluxeBurger deluxeBurger = new DeluxeBurger();
-//        System.out.println(deluxeBurger.itemizehamburger());
-//
-//        System.out.println("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$");
-//        System.out.println();
-//
-//        HealthyBurger healthyBurger = new HealthyBurger("fowl",(5.67));
-//        healthyBurger.addHamburgerAddition1("saucage",5.43);
-//
-//        System.out.println(healthyBurger.itemizehamburger());
 }
